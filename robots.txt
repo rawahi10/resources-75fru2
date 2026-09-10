@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rawahi10.github.io/resources-75fru2/sitemap.xml
